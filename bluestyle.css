@@ -1,0 +1,42 @@
+/* bluestyle.css */
+
+/* Atur tampilan umum halaman */
+body {
+    background-color: #f0f8ff; /* biru muda */
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #333;
+}
+
+/* Judul utama */
+h1 {
+    color: #1e90ff; /* dodger blue */
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+/* Paragraf */
+p {
+    color: #555;
+    line-height: 1.6;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+/* Gambar agar rapi */
+img {
+    display: block;
+    margin: 20px auto;
+    border: 4px solid #1e90ff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+    max-width: 100%;
+    height: auto;
+}
+
+/* Div pembungkus */
+div {
+    text-align: center;
+    margin-bottom: 20px;
+}
